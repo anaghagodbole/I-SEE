@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+
+        android:title="Change Contacts" >
+
+        <EditTextPreference
+            android:key="con1"
+            android:id="@+id/edit1"
+            android:summary="Enter First Contact"
+            android:title="Contact-1"
+
+            />
+
+        <EditTextPreference
+            android:key="con2"
+            android:id="@+id/edit2"
+            android:summary="Enter Second Contact"
+            android:title="Contact-2"
+            />
+
+        <EditTextPreference
+            android:key="con3"
+            android:id="@+id/edit3"
+            android:summary="Enter Third Contact"
+            android:title="Contact-3"
+            />
+
+        <EditTextPreference
+            android:key="con4"
+            android:id="@+id/edit4"
+            android:summary="Enter Fourth Contact"
+            android:title="Contact-4"
+            />
+
+
+
+</PreferenceCategory>
+
+
+
+</PreferenceScreen>

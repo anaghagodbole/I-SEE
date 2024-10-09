@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "941416086053",
+    "firebase_url": "https://bhopu-b2aec.firebaseio.com",
+    "project_id": "bhopu-b2aec",
+    "storage_bucket": "bhopu-b2aec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941416086053:android:cb1f0a213229b0db",
+        "android_client_info": {
+          "package_name": "com.example.peecee.bhopu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941416086053-klj319jalfr08a6sqmeos28utojrsn66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVMzD-i9aH6zmyRBxt2WGwxlFQQk8goJw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
